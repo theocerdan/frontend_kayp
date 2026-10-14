@@ -10,6 +10,8 @@ Our solution addresses critical industry challenges, the efficient and secure:
 - Exchange: Utilizes a virtual service powered by blockchain to encrypt and authenticate document exchanges.
 - Storage: Employs blockchain technology for auditing all documents, preserving an immutable record of documents and all user-provided data with the highest level of security
 
+This is the Paris Blockchain Week 2024 version of KAYP, on the XRP Ledger. The first version, which won [H-W3B Paris](https://www.hackathon-w3b.com/en/paris) on Tezos, is in the [Kayp_H-WEB3PARIS repository](https://github.com/Atroooo/Kayp_H-WEB3PARIS).
+
 # Getting Started
 Follow these steps to clone the repository and start the development server:
 
